@@ -124,8 +124,7 @@ import About from './About/About';
 import Login from './LoginPage/LOginPage';
 import HomeDetails2 from './HomeDetails2.jsx/HomeDetails2';
 import Blog from './Blog/Blog';
-import AuthProvider from './AuthProvider/AuthProvider';
-// import AuthProvider from './AuthProvider/AuthProvider';   // ✅ ঠিক করা হয়েছে
+import AuthProvider from './AuthProvider/AuthProvider.jsx';
 
 const router = createBrowserRouter([{
   path: "/",
